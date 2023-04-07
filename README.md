@@ -1,4 +1,6 @@
 # lolef - A Cats take on a fuck you to Windows.
+Same Privlege Escelation, new code:
+
 The program first enables the debug privilege on the current process using `OpenProcessToken()` function. Then it opens the target process and gets its process token with `OpenProcessToken()` function.
 
 The program duplicates the process token with `DuplicateTokenEx()` function to create a new token with the same privileges.
