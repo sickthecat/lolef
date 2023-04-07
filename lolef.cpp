@@ -7,7 +7,7 @@
 Reading: https://raw.githubusercontent.com/hatRiot/token-priv/master/abusing_token_eop_1.0.txt
 More:    https://stackoverflow.com/questions/39238086/running-process-in-system-context
 
-Lolef 0.1 - Just another binary to PricEsc Admin Accounts to nt authority\system - LOL? F in the chat to pay respect.
+Lolef 0.1 - Just another binary to PrivEsc Admin Accounts to nt authority\system - LOL? F in the chat to pay respect.
 If you wanna send me some digital monies to keep me developing cool stuff, mew? (Cat food iz expensive.)
 If you know of sneakier ways to do this, maybe via a non-admin account please email me. PGP key is on my website. 
 
